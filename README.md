@@ -7,7 +7,7 @@ Programming AKS primality test in c++ using visual studio with multiple projects
 
 the multiple projects are:
   * **AKSBuild**: console program that reads number from console then outputs if is prime
-  * **AKSService**: library that contains the tests
-  * **AKSService.Tests**: Xunit tests of the service
+  * **AKSPrimalityTest**: library that contains the tests
+  * **AKSTests**: Xunit tests of the service
   
 The developing was made using Visual Studio 2019
